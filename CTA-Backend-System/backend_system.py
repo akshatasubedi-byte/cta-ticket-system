@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # ---------- SYSTEM DATA ----------
 USERS = {
-    "admin": "cta123",
+    "myself": "ctasystem",
     "staff": "ticket2026"
 }
 

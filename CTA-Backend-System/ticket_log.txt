@@ -1,0 +1,28 @@
+
+----- CTA TRAVEL VOUCHER -----
+Date & Time: 29-01-2026 22:31:20
+Boarding Zone: Central
+Destination Zone: Downtown
+Zones Travelled: 3
+Adult: 1
+Child: 2
+Student: 1
+Senior: 2
+Total Travellers: 6
+Total Cost: 261.75 credits
+------------------------------
+
+
+----- CTA TRAVEL VOUCHER -----
+Date & Time: 29-01-2026 22:32:01
+Boarding Zone: Midtown
+Destination Zone: Midtown
+Zones Travelled: 1
+Adult: 2
+Child: 22
+Student: 2
+Senior: 2
+Total Travellers: 28
+Total Cost: 407.8 credits
+------------------------------
+
